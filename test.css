@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(127, 176, 255);
+}
+body{
+    background-color: bisque;
+}
+p{
+    text-align: center;
+}
+.nama{
+    color: brown;
+}
+.namap{
+    color: beige;
+}
+.ttl{
+    color: cadetblue;
+}
+.alamat{
+    color: rgb(201, 123, 5);
+}
+.asal{
+    color: rgb(92, 155, 146);
+}
+.kelas{
+    color: blueviolet;
+}
+.hobi{
+    color: coral;
+}
+.cita{
+    color: darkkhaki;
+}
+.mkanan{
+    color: darkslategrey;
+}
+.minuman{
+    color: hotpink;
+}
+.favorit{
+    color: grey;
+}
